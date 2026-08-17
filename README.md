@@ -4,9 +4,9 @@
 Aplicaci¢n web para presentar la informaci¢n, habilidades y roles de los integrantes del equipo. 
  
 ## Integrantes 
-- **Ana Arispe** - Frontend Developer 
-- **Bruno Condori** - Backend Developer 
-- **Carla Morales** - Full Stack & DevOps 
+- **Eithan Lijhaim Aliaga Cori** 
+- **Alexander Choquehuanca Perez** 
+- **Sebastian Rodrigo Vera Soria** 
  
 ## Tecnolog¡as Utilizadas 
 - HTML5 
